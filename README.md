@@ -2,4 +2,4 @@
 
 JavaScript Homework - JavaScript and DOM Manipulation
 
-Due on Aug 27, 2020
+Due on Aug 29, 2020
